@@ -1,7 +1,7 @@
 # NodeJS Backend
 >Backend API for a NodeJS application,which is a Devcamper directory website
 
-##Usage
+## Usage
 Rename "config/config.env.env" to "config/config.env" and update the values/setting to your own.
 
 ## Install Dependencies
